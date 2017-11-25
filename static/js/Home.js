@@ -17,6 +17,7 @@ var Home = {
   start: function() {
     this.searchBar = document.getElementById('search-bar');
     this.topSites = document.getElementById('top-sites-list');
+    DB.start();
     // Start the Places database
     Places.start().then((function() {
       this.showTopSites();
