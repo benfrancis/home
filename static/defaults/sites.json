@@ -1,79 +1,33 @@
 [
   {
-    "name": "Google Mail",
+    "name": "Files",
     "icons": [{
-      "src": "/defaults/icons/google-mail.png",
-      "sizes": "300x300",
-      "type": "image/png"
+      "src": "/defaults/icons/files.svg",
+      "type": "image/svg"
     }],
-    "start_url": "https://mail.google.com",
-    "display": "standalone",
-    "theme_color": "#d84336"
+    "start_url": "https://cloud.tola.me.uk/index.php/apps/files/",
+    "scope": "/index.php/apps/files/",
+    "display": "standalone"
   },
   {
-    "name": "Google Calendar",
+    "name": "Wiki",
     "icons": [{
-      "src": "/defaults/icons/google-calendar.png",
-      "sizes": "300x300",
-      "type": "image/png"
+      "src": "/defaults/icons/wiki.svg",
+      "type": "image/svg"
     }],
-    "start_url": "https://calendar.google.com/",
-    "display": "standalone",
-    "theme_color": "#3a75d7"
+    "start_url": "http://wiki.tola.me.uk",
+    "scope": "/",
+    "display": "standalone"
   },
   {
-    "name": "IRCCloud",
+    "name": "Things",
     "icons": [{
-      "src": "/defaults/icons/irccloud.png",
-      "sizes": "300x300",
-      "type": "image/png"
+      "src": "/defaults/icons/things.svg",
+      "type": "image/svg"
     }],
-    "start_url": "https://irccloud.com/",
-    "display": "standalone",
-    "theme_color": "#4f79f7"
-  },
-  {
-    "name": "Google Play Music",
-    "icons": [{
-      "src": "/defaults/icons/google-play-music.png",
-      "sizes": "300x300",
-      "type": "image/png"
-    }],
-    "start_url": "https://play.google.com/music/listen",
-    "display": "standalone",
-    "theme_color": "#ffffff"
-  },
-  {
-    "name": "Evernote",
-    "icons": [{
-      "src": "/defaults/icons/evernote.png",
-      "sizes": "300x300",
-      "type": "image/png"
-    }],
-    "start_url": "https://www.evernote.com/Home.action",
-    "display": "standalone",
-    "theme_color": "#2dbe60"
-  },
-  {
-    "name": "Facebook",
-    "icons": [{
-      "src": "/defaults/icons/facebook.png",
-      "sizes": "300x300",
-      "type": "image/png"
-    }],
-    "start_url": "https://www.facebook.com/",
-    "display": "standalone",
-    "theme_color": "#3b5998"
-  },
-  {
-    "name": "Twitter",
-    "icons": [{
-      "src": "/defaults/icons/twitter.png",
-      "sizes": "300x300",
-      "type": "image/png"
-    }],
-    "start_url": "https://twitter.com/",
-    "display": "standalone",
-    "theme_color": "#1b93de"
+    "start_url": "https://tola.mozilla-iot.org",
+    "scope": "/",
+    "display": "standalone"
   }
+
 ]

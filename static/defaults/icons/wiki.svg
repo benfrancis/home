@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg25609"
+   version="1.1"
+   viewBox="0 0 16.933333 16.933334"
+   height="64"
+   width="64">
+  <defs
+     id="defs25603" />
+  <metadata
+     id="metadata25606">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-280.06665)"
+     id="layer1">
+    <g
+       id="g26297"
+       transform="matrix(0.28222223,0,0,0.28222223,133.68738,-25433.154)">
+      <circle
+         r="30"
+         cy="91139.836"
+         cx="-443.69543"
+         id="circle25260"
+         style="opacity:1;fill:#5aa02c;fill-opacity:1;stroke:none;stroke-width:2.34375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g25475"
+         transform="matrix(0.17827961,0,0,0.15447276,-535.17184,91113.221)"
+         style="stroke-width:5.64929819">
+        <path
+           style="fill:#ffffff;stroke-width:5.64929819"
+           d="m -693.19727,97321.717 c -8.24,0 -15.19217,5.468 -17.45117,12.971 h 92.07227 c 15.766,-10e-4 28.59375,12.83 28.59375,28.599 v 18.221 97.967 12.326 c 7.504,-2.257 12.9707,-9.214 12.9707,-17.451 v -18.217 -97.965 h -0.002 v -18.223 c 0.003,-10.066 -8.1558,-18.228 -18.2168,-18.228 z m -23.34765,23.344 c -10.068,0 -18.22461,8.16 -18.22461,18.226 v 134.414 c 0,10.066 8.15861,18.225 18.22461,18.225 h 97.96875 c 10.061,0 18.2207,-8.159 18.2207,-18.225 v -18.224 -97.965 c 0,0 -9.5e-4,-18.223 -0.002,-18.223 0.003,-10.069 -8.15275,-18.228 -18.21875,-18.228 z m 2.29883,33.88 h 93.36914 v 10.375 h -93.36914 z m 0,23.344 h 93.36914 v 10.373 h -93.36914 z m 0,23.346 h 93.36914 v 10.375 h -93.36914 z m 0,23.34 h 93.36914 v 10.375 h -93.36914 z m 0,23.345 h 93.36914 v 10.373 h -93.36914 z"
+           transform="translate(1168.997,-97246.524)"
+           id="path25471" />
+      </g>
+    </g>
+  </g>
+</svg>
