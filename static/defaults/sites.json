@@ -5,8 +5,28 @@
       "src": "/defaults/icons/files.svg",
       "type": "image/svg"
     }],
-    "start_url": "https://cloud.tola.me.uk/index.php/apps/files/",
-    "scope": "/index.php/apps/files/",
+    "start_url": "https://cloud.tola.me.uk/apps/files",
+    "scope": "/apps/files",
+    "display": "standalone"
+  },
+  {
+    "name": "Photos",
+    "icons": [{
+      "src": "/defaults/icons/photos.svg",
+      "type": "image/svg"
+    }],
+    "start_url": "https://cloud.tola.me.uk/apps/gallery",
+    "scope": "/apps/gallery",
+    "display": "standalone"
+  },
+  {
+    "name": "Tasks",
+    "icons": [{
+      "src": "/defaults/icons/tasks.svg",
+      "type": "image/svg"
+    }],
+    "start_url": "https://cloud.tola.me.uk/apps/tasks",
+    "scope": "apps/tasks",
     "display": "standalone"
   },
   {
