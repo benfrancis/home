@@ -20,6 +20,16 @@
     "display": "standalone"
   },
   {
+    "name": "Music",
+    "icons": [{
+      "src": "/defaults/icons/music.svg",
+      "type": "image/svg"
+    }],
+    "start_url": "https://cloud.tola.me.uk/apps/music",
+    "scope": "/apps/music",
+    "display": "standalone"
+  },
+  {
     "name": "Tasks",
     "icons": [{
       "src": "/defaults/icons/tasks.svg",
@@ -46,6 +56,16 @@
       "type": "image/svg"
     }],
     "start_url": "https://tola.mozilla-iot.org",
+    "scope": "/",
+    "display": "standalone"
+  },
+  {
+    "name": "IRC",
+    "icons": [{
+      "src": "/defaults/icons/irc.svg",
+      "type": "image/svg"
+    }],
+    "start_url": "http://irc.tola.me.uk",
     "scope": "/",
     "display": "standalone"
   }
